@@ -12,15 +12,16 @@ The system is designed to help students access lecture information more easily w
 
 The project addresses common challenges associated with printed timetables, manual announcements, delayed communication, and missed lecture reminders.
 
-here is my interface help write that will show on read me 
+## Smart Lecture Timetable System – Interface Screenshots
 
-Interface screenshot 
+### Main Application Interface
+![Smart Lecture App Interface](https://raw.githubusercontent.com/ArcRobot-Researchcenter/Iot-smart-lecture-system/76b74b649415b8c01a8f8c28cd8f6730e2668d33/smart%20lecture%20app.png)
 
-https://github.com/ArcRobot-Researchcenter/Iot-smart-lecture-system/blob/76b74b649415b8c01a8f8c28cd8f6730e2668d33/smart%20lecture%20app.png
+### Smart Lecture Dashboard
+![Smart Lecture Dashboard](https://raw.githubusercontent.com/ArcRobot-Researchcenter/Iot-smart-lecture-system/76b74b649415b8c01a8f8c28cd8f6730e2668d33/smart%20lecture.png)
 
-https://github.com/ArcRobot-Researchcenter/Iot-smart-lecture-system/blob/76b74b649415b8c01a8f8c28cd8f6730e2668d33/smart%20lecture.png
-
-https://github.com/ArcRobot-Researchcenter/Iot-smart-lecture-system/blob/76b74b649415b8c01a8f8c28cd8f6730e2668d33/sms.jpeg
+### SMS Notification Interface
+![Smart Lecture SMS Notifications](https://raw.githubusercontent.com/ArcRobot-Researchcenter/Iot-smart-lecture-system/76b74b649415b8c01a8f8c28cd8f6730e2668d33/sms.jpeg)
 
 ## 2. Problem Statement
 
